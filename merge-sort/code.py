@@ -32,7 +32,6 @@ def merge_sort(arr):
             arr[k] = rightArr[j]
             j += 1
             k += 1
-        print(leftArr, i, rightArr, j, k)
 
 
 if __name__ == "__main__":
